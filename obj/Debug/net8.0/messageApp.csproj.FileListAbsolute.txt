@@ -1,0 +1,14 @@
+/Users/mustafa/Documents/zaide/messageApp/bin/Debug/net8.0/messageApp
+/Users/mustafa/Documents/zaide/messageApp/bin/Debug/net8.0/messageApp.deps.json
+/Users/mustafa/Documents/zaide/messageApp/bin/Debug/net8.0/messageApp.runtimeconfig.json
+/Users/mustafa/Documents/zaide/messageApp/bin/Debug/net8.0/messageApp.dll
+/Users/mustafa/Documents/zaide/messageApp/bin/Debug/net8.0/messageApp.pdb
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.AssemblyInfoInputs.cache
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.AssemblyInfo.cs
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.csproj.CoreCompileInputs.cache
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.dll
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/refint/messageApp.dll
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.pdb
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/messageApp.genruntimeconfig.cache
+/Users/mustafa/Documents/zaide/messageApp/obj/Debug/net8.0/ref/messageApp.dll
